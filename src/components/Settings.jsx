@@ -38,7 +38,7 @@ export const Settings = ({ setTheme }) => {
       <div className="space-y-8">
     
         <div className="bg-white/10 backdrop-blur-lg p-6 rounded-lg shadow-lg">
-          <h2 className="text-xl font-semibold mb-4 text-white">Transfering - Controls</h2>
+          <h2 className="text-xl font-semibold mb-4 text-white">Transferrrring--Controls</h2>
           
           <div className="space-y-6">
             <div>
